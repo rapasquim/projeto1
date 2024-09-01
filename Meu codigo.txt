@@ -2,3 +2,4 @@ Olá, meu nome é Pasquim!
 Este é o teste do primeiro projeto no git.
 Teste 3
 Teste 4
+Nova linha
